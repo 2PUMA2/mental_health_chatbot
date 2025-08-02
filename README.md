@@ -12,20 +12,8 @@ This project is a simple chatbot application consisting of a frontend built with
 
 ## Installation and Setup
 
-### 1. Clone the Repository
 
-```sh
-git clone https://github.com/skhoon4u/urp2024-counseling.git
-```
-
-### 2. Download the Model Files
-
-Download the finetuned_blenderbot model files and place them in the project root directory.
-
-- Download Link : https://drive.google.com/drive/folders/1PdDOUckNtvS9_A92h29txMvV6IsHCubS?usp=drive_link
-- After downloading, copy the finetuned_blenderbot folder into the project root directory.
-
-### 3. Backend Setup
+### 1. Backend Setup
 
 Node.js Server Setup
 
@@ -63,7 +51,7 @@ python chatbot_service.py
 
 - The server will run on port 5001.
 
-### 4. Frontend Setup
+### 2. Frontend Setup
 
 - Start the React App
 
